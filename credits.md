@@ -1,4 +1,10 @@
 # Credits
+**Authors:**
+* Caparaz, Michael David Q.
+* Akinpelu, Israel O.
+* Gonzaga, Noennyl Jeif M.
+* Gabut, Rhoda I.
+* Espinosa, Dia luna A.
 
 **A huge thanks for the following:**
 * HowToMechatronics
